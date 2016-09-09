@@ -1,5 +1,7 @@
 # Missile-Defense
 
+Run via Corona Simulator
+
 	  The point of this game is to protect the city from the incoming missiles. To shoot missiles, 
 	simply tap the missiles and the laser will dstroy them. As the the player destroys more missiles 
 	the game gets harder by increasing the missiles speed and adding more missiles. The player loses 
